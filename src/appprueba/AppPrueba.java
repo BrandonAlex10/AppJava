@@ -8,6 +8,13 @@ public class AppPrueba {
         
         System.out.println("Hola");
         
+        
+        
+    }
+    
+    
+    public static void Imprime(){
+        System.out.println("Holñaaaa");
     }
     
 }
