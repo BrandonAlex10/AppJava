@@ -13,8 +13,4 @@ public class AppPrueba {
     }
     
     
-    public static void Imprime(){
-        System.out.println("Holñaaaa");
-    }
-    
 }
